@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "deeper-research": {
+      "type": "http",
+      "url": "https://deeperesearch.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "deeper-research",
+  "description": "The Deeper Research plugin for Claude Code: deep research across several providers, with cited reports.",
+  "owner": {
+    "name": "Deeper Research",
+    "url": "https://deeperesearch.com"
+  },
+  "plugins": [
+    {
+      "name": "deeper-research",
+      "source": "./",
+      "description": "Deep research across several providers, with cited reports and spending limits."
+    }
+  ]
+}

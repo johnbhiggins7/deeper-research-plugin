@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "deeper-research",
+  "displayName": "Deeper Research",
+  "version": "1.0.0",
+  "description": "Run deep research across several providers (Parallel, Gemini, Perplexity, Claude and more) from Claude Code, with cited reports, cost limits and a searchable library.",
+  "author": {
+    "name": "Deeper Research",
+    "url": "https://deeperesearch.com"
+  },
+  "homepage": "https://deeperesearch.com/docs/mcp",
+  "repository": "https://github.com/johnbhiggins7/deeper-research-plugin",
+  "license": "MIT",
+  "keywords": [
+    "research",
+    "deep-research",
+    "mcp",
+    "citations",
+    "reports"
+  ],
+  "documentationUrl": "https://deeperesearch.com/docs/mcp",
+  "supportUrl": "https://deeperesearch.com/docs/mcp",
+  "privacyPolicyUrl": "https://deeperesearch.com/legal/privacy",
+  "termsOfServiceUrl": "https://deeperesearch.com/legal/terms"
+}
